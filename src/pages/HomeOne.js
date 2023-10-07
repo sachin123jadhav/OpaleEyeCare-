@@ -17,7 +17,7 @@ const ServiceOne = React.lazy(() => import("../components/ServiceOne"));
 const TeamOne = React.lazy(() => import("../components/TeamOne"));
 const TestimonialOne = React.lazy(() => import("../components/TestimonialOne"));
 const WhyChooseUsOne = React.lazy(() => import("../components/WhyChooseUsOne"));
-const SearchPopup = React.lazy(() => import("../elements/SearchPopup"));
+
 const HomeOne = () => {
   return (
     <>
