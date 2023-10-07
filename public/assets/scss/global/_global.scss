@@ -507,3 +507,9 @@ ul {
     padding-left: 0;
   }
 }
+
+
+@media (min-width: 1200px) and (max-width: 1366px) {
+ header .navbar-top {
+    padding: 8px 0;}
+}
