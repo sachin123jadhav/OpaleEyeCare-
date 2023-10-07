@@ -20,8 +20,11 @@
   &.bg-sky {
     background: rgba(0, 133, 239, 0.1);
   }
+  &.bg-green {
+    background: rgba(0, 100, 26, 0.1);
+  }
   .icon {
-    background: var(--main-color);
+    background: var(--secondary-color);
     height: 60px;
     width: 60px;
     line-height: 60px;

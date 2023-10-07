@@ -44,12 +44,10 @@ const BannerOne = () => {
                     <div className='col-lg-7 col-md-8'>
                       <div className='banner-inner style-white'>
                         <h1 className='b-animate-2 title'>
-                          FAST CERTIFIED &amp; BEST WORLD WIDE SERVICE
+                        Comprehensive <br/> Eye Care
                         </h1>
                         <p className='b-animate-3 content'>
-                          Professionally strategize stand-alone functionalities
-                          and cooperative total linkage. Objectively predominate
-                          virtual quality vectors with orthogonal.
+                        Our commitment to comprehensive eye care ensures your visual well-being, from routine exams to advanced treatments, because your eyesight matters.
                         </p>
                         <div className='btn-wrap'>
                           <Link
@@ -85,13 +83,10 @@ const BannerOne = () => {
                     <div className='col-lg-7 col-md-8'>
                       <div className='banner-inner style-white'>
                         <h1 className='b-animate-2 title'>
-                          FAST CERTIFIED &amp; BEST WORLD WIDE SERVICE
+                        Glaucoma Services in Pediatric Ophthalmology Adult Eye Care Services
                         </h1>
                         <p className='b-animate-3 content'>
-                          Our transport management solutions are designed to
-                          enable the effective and efficient management of the
-                          delivery of goods. Having the real-time visibility of
-                          vehicle movements.
+                        Experience exceptional adult eye care services, with a focus on comprehensive glaucoma management for a clear and healthy vision.
                         </p>
                         <div className='btn-wrap'>
                           <Link

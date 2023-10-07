@@ -47,8 +47,7 @@ const HomeOne = () => {
 
           <CounterOne />
 
-          {/* Team One */}
-          <TeamOne />
+         
 
           {/* Contact One */}
           <div
@@ -64,11 +63,9 @@ const HomeOne = () => {
           {/* Portfolio One */}
           <PortfolioOne />
 
-          {/* Blog One */}
-          <BlogOne />
+        
 
-          {/* Partner One */}
-          <PartnerOne />
+         
 
           {/* Footer One */}
           <FooterOne />
